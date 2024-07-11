@@ -8,11 +8,12 @@ This project aims to perform an in-depth analysis of Goodreads reviews using Nat
 * **Topic Modeling:** Identifying common topics in reviews using LDA (Latent Dirichlet Allocation).
 * **Visualizations:** Creating plots and word clouds to visually represent the sentiment and topics in the reviews.
 
+## Data source
+https://mengtingwan.github.io/data/goodreads.html - goodreads_reviews_spoiler.json
+
 ## Repository Structure
 * Goodreads_Reviews_Analysis.ipynb: The main Jupyter Notebook containing the project code.
 * GoodReads_Data_Preparation.ipynb: The  Jupyter Notebook containing data preprocessing code.
-* goodreads_reviews_spoiler.json: The dataset used for the analysis.
-* processed_data.csv: The processed dataset saved after initial cleaning and preprocessing.
 * requirements.txt: The list of dependencies required to run the project.
 * README.md: Project documentation.
 
