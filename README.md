@@ -17,6 +17,17 @@ https://mengtingwan.github.io/data/goodreads.html - goodreads_reviews_spoiler.js
 * requirements.txt: The list of dependencies required to run the project.
 * README.md: Project documentation.
 
+## Key Insights:
+* **Ratings Distribution**: The analysis showed a strong preference for higher ratings, with the majority of reviews clustering around 4 and 5 stars. This suggests a generally positive reception of the books reviewed.
+
+* **Review Length**: Most reviews were relatively short, with approximately 67% consisting of fewer than 200 words. This indicates that users often express their opinions succinctly, focusing on key impressions rather than extensive critiques.
+
+* **User Engagement**: The user distribution highlighted that a small number of highly active users contributed a large portion of the reviews, reflecting a dedicated community of avid readers.
+
+* **Sentiment Analysis**: The sentiment analysis revealed that the majority of reviews were classified as positive, with 83.57% of reviews expressing favorable opinions. This indicates a strong overall satisfaction with the books reviewed.
+
+* **Topic Modeling**: The topic modeling identified 15 distinct themes within the reviews, encompassing various genres and reader experiences. Key topics included romance, fantasy, young adult fiction, and themes related to life and relationships, demonstrating the diverse interests of the Goodreads community.
+
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
